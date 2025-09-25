@@ -236,45 +236,8 @@ the-digital-cart/
 2. Get connection string
 3. Update `MONGO_URI` in environment variables
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Developer
-
-**Sagar Suryakant Waghmare**
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/sagar-waghmare-developer)
-- GitHub: [@SagarSuryakantWaghmare](https://github.com/SagarSuryakantWaghmare)
-- Email: sagarwaghmare@developer.com
-
-## 🙏 Acknowledgments
-
-- Thanks to all the open-source libraries used in this project
-- Special thanks to the React and Node.js communities
-- Icons provided by Lucide React
-- Images sourced from Unsplash
-
-## 📞 Support
-
-If you have any questions or need support, please feel free to:
-- Open an issue on GitHub
-- Connect with me on LinkedIn
-- Send an email
-
----
 
 <div align="center">
 
-**⭐ Star this repository if you found it helpful!**
-
-Made with ❤️ by [Sagar Suryakant Waghmare](https://www.linkedin.com/in/sagar-waghmare-developer)
 
 </div>
