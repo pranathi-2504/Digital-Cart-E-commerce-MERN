@@ -1,6 +1,7 @@
 # 🛒 The Digital Cart - Premium E-commerce Platform
 
 A modern, full-stack e-commerce web application built with React.js and Node.js, designed for premium fashion and lifestyle products. Features a complete shopping experience with admin panel, payment processing, and order management.
+🔗 **Live Demo:** [https://the-digital-cart.netlify.app/](https://the-digital-cart.netlify.app/)
 
 ![Hero Section](./screenshots/HeroSection.png)
 
