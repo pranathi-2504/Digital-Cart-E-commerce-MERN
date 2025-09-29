@@ -9,7 +9,7 @@ A modern, full-stack e-commerce web application built with React.js and Node.js,
 
 ## 🌟 Features
 
-### 🛍️ Customer Features
+### 🛍️ Customer Features 
 - **Modern Product Catalog** - Browse through curated collections
 - **Advanced Filtering** - Filter by category, brand, price, color, and size
 - **Shopping Cart** - Add, remove, and manage items
