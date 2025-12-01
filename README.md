@@ -81,7 +81,7 @@ A modern, full-stack e-commerce web application built with React.js and Node.js,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SagarSuryakantWaghmare/the-digital-cart.git
+git clone https://github.com/pranathi-2504/Digital-Cart-E-commerce-MERN.git
 cd the-digital-cart
 ```
 
